@@ -1,0 +1,1 @@
+The background menu music that plays in Batocera that has since been retired from active use. If you want to still use these tracks, you can download them and place them into `/userdata/music/`. We suggest using the OGG files, as they are normalized and smaller in size.
