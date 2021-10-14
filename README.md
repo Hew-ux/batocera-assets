@@ -1,10 +1,10 @@
-# batocera-assets
-The source files for media created/used specifically for Batocera
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+# Batocera-linux Assets
+The source files and archives of said files for media created/used specifically for [Batocera-linux](https://github.com/batocera-linux).
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is umbrella licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by]. Specific licenses that apply to particular artist/contributor are included in the same subfolder that their works appear in.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
