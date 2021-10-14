@@ -1,0 +1,1 @@
+All of the retired pieces of media no longer actively used by Batocera. Licenses relevant to the exact media is stored here, but the general license may only be specified in the current active folders instead.

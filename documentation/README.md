@@ -1,0 +1,1 @@
+Various bits and bobs used throughout the documentation of Batocera.
