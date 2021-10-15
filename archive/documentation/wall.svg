@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="400" height="200">
+  <text x="10" y="30" fill="#6666ff" font-size="30">Amiga</text>
+  <text x="320" y="50" fill="#0000aa" font-size="10">Apple II</text>
+  <text x="30" y="70" fill="#6600aa" font-size="10">Atari</text>
+  <text x="200" y="20" fill="#66ddff" font-size="20">Commodore</text>
+  <text x="150" y="100" fill="#55aaff" font-size="40">Dreamcast</text>
+  <text x="0" y="130" fill="#225599" font-size="25">Gameboy</text>
+  <text x="200" y="50" fill="#00cccc" font-size="20">Jaguar</text>
+  <text x="200" y="140" fill="#6600ff" font-size="10">Master System</text>
+  <text x="200" y="170" fill="#0066ff" font-size="30">Megadrive</text>
+  <text x="10" y="190" fill="#0000aa" font-size="15">Neogeo</text>
+  <text x="20" y="100" fill="#6666aa" font-size="20">Nintendo</text>
+  <text x="100" y="50" fill="#6666aa" font-size="20">Dos</text>
+  <text x="230" y="130" fill="#6688ff" font-size="15">Playstation</text>
+  <text x="350" y="20" fill="#0055aa" font-size="15">Sega</text>
+  <text x="350" y="195" fill="#0088ff" font-size="30">Wii</text>
+  <text x="260" y="70" fill="#0000ff" font-size="15">Arcade</text>
+  <text x="330" y="150" fill="#0000ff" font-size="15">Odroid</text>
+  <text x="20" y="160" fill="#00ccff" font-size="15">Raspberry</text>
+  <text x="80" y="80" fill="#000099" font-size="30">Kodi</text>
+  <text x="120" y="20" fill="#0055ff" font-size="10">Game Gear</text>
+  <text x="100" y="190" fill="#00aaff" font-size="20">Amstrad</text>
+  <text x="120" y="160" fill="#0000ff" font-size="30">PSP</text>
+</svg>
