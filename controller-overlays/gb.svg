@@ -8,9 +8,9 @@
    y="0px"
    viewBox="0 0 240 250"
    xml:space="preserve"
-   sodipodi:docname="gb-gbc.svg"
+   sodipodi:docname="gb.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   inkscape:export-filename="C:\All\Batocera\batocera-assets\controller-overlays\gb-gbc.png"
+   inkscape:export-filename="C:\All\Batocera\batocera-assets\controller-overlays\gb.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    width="240"
@@ -324,7 +324,7 @@
      transform="translate(1.2684634,16.057013)"><tspan
        x="76.751854"
        y="154.66483"
-       id="tspan1065">SELECT</tspan></text><rect
+       id="tspan975">SELECT</tspan></text><rect
      style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect38642-2-0-9"
      width="54.275833"
@@ -341,7 +341,7 @@
      transform="translate(-40.527635,93.293509)"><tspan
        x="96.331772"
        y="154.66483"
-       id="tspan1067">D-PAD</tspan></text><rect
+       id="tspan977">D-PAD</tspan></text><rect
      style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect38642-7"
      width="36.274895"
@@ -358,7 +358,7 @@
      transform="translate(42.334933,16.053013)"><tspan
        x="80.113693"
        y="154.66483"
-       id="tspan1069">START</tspan></text></g><g
+       id="tspan979">START</tspan></text></g><g
    inkscape:groupmode="layer"
    id="layer7"
    inkscape:label="Face buttons"
@@ -383,7 +383,7 @@
      transform="translate(28.344269,27.801964)"><tspan
        x="137.81617"
        y="125.30995"
-       id="tspan1071">B</tspan></text><text
+       id="tspan981">B</tspan></text><text
      xml:space="preserve"
      id="text83349-6"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-9-2);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -392,7 +392,7 @@
      transform="translate(56.584317,-1.0944148)"><tspan
        x="137.73085"
        y="125.30995"
-       id="tspan1073">A</tspan></text></g><g
+       id="tspan983">A</tspan></text></g><g
    inkscape:groupmode="layer"
    id="layer9"
    inkscape:label="D-pad"
@@ -412,7 +412,7 @@
      transform="translate(-106.25263,1.7900086)"><tspan
        x="133.20184"
        y="121.64941"
-       id="tspan1075">D-PAD</tspan></text><text
+       id="tspan985">D-PAD</tspan></text><text
      xml:space="preserve"
      id="text83349-9-6-6"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:1.75px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-9);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
