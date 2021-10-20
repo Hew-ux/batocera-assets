@@ -4,4 +4,12 @@ banner-simple.png - For use with small banners that require clarity over present
 
 banner-icon.png - For use as Batocera's avatar/display picture/user profile picture. This has a lot of the post-effects removed to appear more legibly at smaller rendering resolutions.
 
+circle-avatar.png - For sites that A. use circular avatar "holes" and B. don't feature a zoom and crop tool when uploading, ahem _reddit_.
+
 splash-image.png - The official splash image used by Batocera for its boot sequence, game loading, and other miscellaneous purposes.
+
+splash-image-4k.png - A 4K version of the official splash image. This isn't actually used (yet).
+
+splash-image-480p.png - The official splash image used by Batocera for its boot sequence when the video mode is set to 480p (either by the device's defaults or manual user intervention). It is cropped to a 4:3 aspect ratio to match those devices better.
+
+splash-image-<other-thing>.png - Alterations of the main splash image, free to use for the promotion of Batocera.
