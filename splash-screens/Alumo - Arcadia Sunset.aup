@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Alumo - Arcadia Sunset_data" version="1.3.0" audacityversion="2.3.2" sel0="7.1096911319" sel1="7.1096911319" vpos="0" h="0.0000000000" zoom="127.2910430578" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Alumo - Arcadia Sunset" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="373008">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084a1.au" len="155036" min="-0.485498" max="0.513797" rms="0.087212"/>
+				</waveblock>
+				<waveblock start="155036">
+					<simpleblockfile filename="e0808adf.au" len="155037" min="-0.556127" max="0.606787" rms="0.166934"/>
+				</waveblock>
+				<waveblock start="310073">
+					<simpleblockfile filename="e0808acd.au" len="62935" min="-0.466184" max="0.52853" rms="0.09981"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Alumo - Arcadia Sunset" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="373008">
+				<waveblock start="0">
+					<simpleblockfile filename="e080815a.au" len="155036" min="-0.555316" max="0.548546" rms="0.089358"/>
+				</waveblock>
+				<waveblock start="155036">
+					<simpleblockfile filename="e0808606.au" len="155037" min="-0.579428" max="0.638076" rms="0.17121"/>
+				</waveblock>
+				<waveblock start="310073">
+					<simpleblockfile filename="e0808d80.au" len="62935" min="-0.450461" max="0.617534" rms="0.094131"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="4" height="73" minimized="0" isSelected="1">
+		<label t="3.2366770678" t1="3.2366770678" title="End fade in"/>
+		<label t="4.3208067652" t1="4.3208067652" title="Drop"/>
+		<label t="6.2062497174" t1="6.2062497174" title="Start fade out"/>
+		<label t="7.1096911319" t1="7.1096911319" title="Start studio fade out"/>
+	</labeltrack>
+</project>

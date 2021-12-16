@@ -17,3 +17,5 @@ splash-image-4k.png - A 4K version of the official splash image. This isn't actu
 splash-image-480p.png - The official splash image used by Batocera for its boot sequence when the video mode is set to 480p (either by the device's defaults or manual user intervention). It is cropped to a 4:3 aspect ratio to match those devices better.
 
 splash-image-<other-thing>.png - Alterations of the main splash image, free to use for the promotion of Batocera.
+
+splash-video-3-Lichshield.mp4 - The current video splash image used in compatible platforms, created by Lichshield.
