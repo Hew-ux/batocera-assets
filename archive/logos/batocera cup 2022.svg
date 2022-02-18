@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="batocera cup 2022.svg"
+   inkscape:export-filename="C:\All\Batocera\batocera-assets\archive\logos\batocera cup 2022.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="262.48613"
+       y="489.08548"
+       width="293.75889"
+       height="34.34877"
+       id="rect9350" />
+    <filter
+       inkscape:label="Metallized Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Gel Ridge metallized at its top"
+       height="1.6620421"
+       y="-0.33102106"
+       width="1.6898394"
+       x="-0.34491971"
+       style="color-interpolation-filters:sRGB;"
+       id="filter13110">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur13086" />
+      <feGaussianBlur
+         stdDeviation="8"
+         result="result6"
+         in="result1"
+         id="feGaussianBlur13088" />
+      <feComposite
+         operator="atop"
+         in="result6"
+         in2="result1"
+         result="result8"
+         id="feComposite13090" />
+      <feComposite
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite13092" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         id="feColorMatrix13094" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur13096" />
+      <feSpecularLighting
+         specularExponent="35"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting13100">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight13098" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13102" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite13104" />
+      <feComposite
+         operator="atop"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite13106" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend13108" />
+    </filter>
+    <filter
+       inkscape:label="Metallized Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Gel Ridge metallized at its top"
+       height="3.5189308"
+       y="-1.2594654"
+       width="2.8883481"
+       x="-0.94417405"
+       style="color-interpolation-filters:sRGB;"
+       id="filter13136">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur13112" />
+      <feGaussianBlur
+         stdDeviation="8"
+         result="result6"
+         in="result1"
+         id="feGaussianBlur13114" />
+      <feComposite
+         operator="atop"
+         in="result6"
+         in2="result1"
+         result="result8"
+         id="feComposite13116" />
+      <feComposite
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite13118" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         id="feColorMatrix13120" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur13122" />
+      <feSpecularLighting
+         specularExponent="35"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting13126">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight13124" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13128" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite13130" />
+      <feComposite
+         operator="atop"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite13132" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend13134" />
+    </filter>
+    <filter
+       inkscape:label="Metallized Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Gel Ridge metallized at its top"
+       height="3.2060254"
+       y="-1.1030127"
+       width="2.2739202"
+       x="-0.63696012"
+       style="color-interpolation-filters:sRGB;"
+       id="filter13162">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur13138" />
+      <feGaussianBlur
+         stdDeviation="8"
+         result="result6"
+         in="result1"
+         id="feGaussianBlur13140" />
+      <feComposite
+         operator="atop"
+         in="result6"
+         in2="result1"
+         result="result8"
+         id="feComposite13142" />
+      <feComposite
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite13144" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         id="feColorMatrix13146" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur13148" />
+      <feSpecularLighting
+         specularExponent="35"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting13152">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight13150" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13154" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite13156" />
+      <feComposite
+         operator="atop"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite13158" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend13160" />
+    </filter>
+    <filter
+       inkscape:label="Metallized Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Gel Ridge metallized at its top"
+       height="1.6679018"
+       y="-0.33395089"
+       width="1.3626544"
+       x="-0.1813272"
+       style="color-interpolation-filters:sRGB;"
+       id="filter13188">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur13164" />
+      <feGaussianBlur
+         stdDeviation="8"
+         result="result6"
+         in="result1"
+         id="feGaussianBlur13166" />
+      <feComposite
+         operator="atop"
+         in="result6"
+         in2="result1"
+         result="result8"
+         id="feComposite13168" />
+      <feComposite
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite13170" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         id="feColorMatrix13172" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur13174" />
+      <feSpecularLighting
+         specularExponent="35"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting13178">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight13176" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13180" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite13182" />
+      <feComposite
+         operator="atop"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite13184" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend13186" />
+    </filter>
+    <filter
+       inkscape:label="Metallized Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Gel Ridge metallized at its top"
+       height="1.4731569"
+       y="-0.23657845"
+       width="1.3626351"
+       x="-0.18131756"
+       style="color-interpolation-filters:sRGB;"
+       id="filter13214">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur13190" />
+      <feGaussianBlur
+         stdDeviation="8"
+         result="result6"
+         in="result1"
+         id="feGaussianBlur13192" />
+      <feComposite
+         operator="atop"
+         in="result6"
+         in2="result1"
+         result="result8"
+         id="feComposite13194" />
+      <feComposite
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite13196" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         id="feColorMatrix13198" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur13200" />
+      <feSpecularLighting
+         specularExponent="35"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting13204">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight13202" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13206" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite13208" />
+      <feComposite
+         operator="atop"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite13210" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend13212" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Soft, cushion-like bevel with matte highlights"
+       inkscape:menu="Bevels"
+       inkscape:label="Bloom"
+       style="color-interpolation-filters:sRGB;"
+       id="filter13754"
+       x="-0.13731678"
+       y="-0.86372853"
+       width="1.2746336"
+       height="2.7274571">
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result10"
+         id="feGaussianBlur13736" />
+      <feBlend
+         in2="SourceGraphic"
+         result="result5"
+         mode="multiply"
+         in="result10"
+         id="feBlend13738" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="over"
+         id="feComposite13740" />
+      <feGaussianBlur
+         result="result9"
+         stdDeviation="5"
+         id="feGaussianBlur13742" />
+      <feSpecularLighting
+         in="result9"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="1"
+         specularConstant="2.2"
+         specularExponent="45"
+         id="feSpecularLighting13746">
+        <fePointLight
+           x="-5000"
+           y="-10000"
+           z="20000"
+           id="fePointLight13744" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite13748" />
+      <feComposite
+         in="result2"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="0.8"
+         in2="fbSourceGraphic"
+         id="feComposite13750" />
+      <feBlend
+         in="result4"
+         in2="result4"
+         mode="multiply"
+         id="feBlend13752"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix13774" />
+      <feGaussianBlur
+         id="feGaussianBlur13776"
+         result="result1"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.2" />
+      <feSpecularLighting
+         id="feSpecularLighting13778"
+         result="result0"
+         specularExponent="18.1"
+         specularConstant="2"
+         surfaceScale="5">
+        <feDistantLight
+           id="feDistantLight13780"
+           azimuth="225"
+           elevation="24" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13782"
+         result="result6"
+         operator="in" />
+      <feMorphology
+         id="feMorphology13784"
+         radius="5.7"
+         operator="dilate" />
+      <feGaussianBlur
+         id="feGaussianBlur13786"
+         result="result11"
+         stdDeviation="5.7" />
+      <feDiffuseLighting
+         id="feDiffuseLighting13788"
+         surfaceScale="5"
+         result="result3"
+         diffuseConstant="2"
+         in="result1">
+        <feDistantLight
+           id="feDistantLight13790"
+           elevation="25"
+           azimuth="225" />
+      </feDiffuseLighting>
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend13792"
+         result="result7"
+         mode="multiply"
+         in="result3" />
+      <feComposite
+         in2="fbSourceGraphicAlpha"
+         id="feComposite13794"
+         in="result7"
+         operator="in"
+         result="result91" />
+      <feBlend
+         in2="result91"
+         id="feBlend13796"
+         result="result9"
+         mode="lighten"
+         in="result6" />
+      <feComposite
+         in2="result9"
+         id="feComposite13798"
+         in="result11" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#c6c6c6"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     objecttolerance="16"
+     guidetolerance="16" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24998)">
+    <path
+       id="path859"
+       style="fill:#ebd667;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;filter:url(#filter13754)"
+       d="m 286.39844,394.72852 c 49.02491,-7.93253 57.84944,-46.33228 56.96094,-63.65821 -2.89146,-56.38325 -26.88971,-70.9386 -68.67188,-99.7539 -20.963,-14.45724 -61.29402,-31.02801 -61.81445,-90.35743 -0.21568,-24.587 0,-69.39648 0,-69.39648 h 196.99023 196.99023 c 0,0 0.21568,44.80948 0,69.39648 -0.52043,59.32942 -40.85145,75.90019 -61.81445,90.35743 -41.78217,28.8153 -65.78042,43.37065 -68.67188,99.7539 -0.8885,17.32593 7.93603,55.72568 56.96094,63.65821 l -123.46484,2.10546 z"
+       transform="translate(0,138.24998)"
+       sodipodi:nodetypes="cssscccsssccc" />
+    <path
+       id="path857"
+       style="fill:#ebd667;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;filter:url(#filter13754)"
+       d="m 263.70508,426.87695 c -1.44573,-31.80594 18.2103,-34.36224 61.58203,-37.97656 21.42681,-1.78557 55.52459,-2.33158 84.57617,-2.43164 29.05158,0.10006 63.14936,0.64607 84.57617,2.43164 43.37173,3.61432 63.02776,6.17062 61.58203,37.97656 l -146.1582,6.08789 z"
+       transform="translate(0,138.24998)"
+       sodipodi:nodetypes="cscsccc" />
+    <path
+       id="path855"
+       style="fill:#443915;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="m 179.26953,516.12305 50.60156,-88.91211 h 179.99219 179.99219 l 50.60156,88.91211 H 409.86328 Z"
+       transform="translate(0,138.24998)"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter13110)"
+       d="m 393.80379,321.03708 c -6.51541,-2.02203 -21.79294,-4.71805 -24.48896,-11.0088 -2.69605,-6.29074 0,-12.35681 2.47135,-18.64756 2.47136,-6.29075 18.87223,-38.64314 21.79293,-42.46252 2.92071,-3.81938 6.96475,-8.53744 13.48018,-8.53744 6.51541,0 15.05285,2.02203 20.89424,3.5947 5.84142,1.5727 16.85022,8.53744 17.97356,17.07488 1.12335,8.53744 -0.674,15.27753 -5.84139,20.44493 7.86342,4.71806 9.43611,17.29954 7.1894,23.81495 -2.24669,6.51543 -14.37883,19.09691 -26.73565,18.42289 -12.35682,-0.674 -16.8502,-0.674 -26.73566,-2.69603 z"
+       id="path1298"
+       inkscape:export-filename="C:\All\Batocera\batocera-assets\logos\joystick-black-favicon.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       fill="#bf1617"
+       d="m 413.2531,276.54246 c 3.14805,0.74072 6.2961,0.55554 9.25897,-0.74072 2.96287,-1.29626 4.99985,-3.14805 5.92575,-5.92574 1.11107,-2.59252 0.92589,-4.99985 -0.55554,-7.222 -1.29626,-2.22216 -3.51841,-3.88877 -6.66646,-4.62949 -4.99985,-1.11108 -7.59236,-1.85179 -12.59221,-2.96287 -3.51841,7.40718 -5.18502,10.92559 -8.70343,18.33277 5.3702,1.29625 7.96271,1.85179 13.33292,3.14805 0,0 0,0 0,0 z"
+       id="path80"
+       inkscape:export-filename="C:\All\Batocera\batocera-assets\logos\joystick-black-favicon.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       style="display:inline;stroke:none;stroke-width:1;filter:url(#filter13136)" />
+    <path
+       fill="#bf1617"
+       d="m 423.62315,307.09707 c 2.96287,-1.29626 4.99985,-3.14805 5.92574,-5.55538 0.9259,-2.59252 0.74072,-4.99985 -0.92589,-7.40718 -1.48144,-2.40734 -3.88877,-3.88877 -7.03682,-4.62949 -10.55523,-2.59251 -15.74026,-3.88877 -26.29549,-6.2961 -3.33323,7.222 -4.99985,10.74041 -8.51826,17.77723 10.92559,2.77769 16.2958,4.07395 27.22139,6.66646 3.51841,0.9259 6.66646,0.74072 9.62933,-0.55554 z"
+       id="path86"
+       inkscape:export-filename="C:\All\Batocera\batocera-assets\logos\joystick-black-favicon.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       style="display:inline;stroke:none;stroke-width:1;filter:url(#filter13162)" />
+    <path
+       fill="#831308"
+       d="m 488.79905,286.55087 c -4.46822,34.4562 -36.54151,55.28744 -77.00874,57.40567 -39.83177,2.08494 -72.45924,-27.65848 -75.20229,-57.27578 l 0.95914,25.48164 c 0.75105,31.6703 33.4843,56.98216 74.9645,57.03529 32.41437,0.0415 74.47779,-20.1634 75.65496,-58.51677 z"
+       id="path78-5"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="C:\All\Batocera\batocera-assets\logos\joystick-black-favicon.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       style="display:inline;stroke:none;stroke-width:1;filter:url(#filter13188)" />
+    <path
+       fill="#bf1617"
+       d="m 412.32715,228.76615 c -13.7033,0 -26.66587,2.7777 -37.77663,7.77752 -6.66647,2.96288 -12.77741,6.66646 -17.96243,11.11077 -3.51841,2.96289 -6.66646,6.29612 -9.44415,9.81455 -6.66647,8.70342 -10.55525,18.88829 -10.55525,29.62873 v 1.29624 c 0.92589,31.66571 34.44345,56.98223 75.92364,57.03533 32.41438,0.0415 75.98198,-20.34846 76.29399,-58.51674 0.26344,-32.22497 -34.4434,-58.1464 -76.47917,-58.1464 z m 29.99909,75.92364 c -0.9259,2.77769 -2.40733,4.99983 -4.62949,7.0368 -2.22215,2.037 -4.62948,3.70359 -7.59236,4.81469 -2.96289,1.11108 -6.11092,1.85179 -9.44417,2.03697 -3.51841,0.18518 -7.03682,0 -10.37005,-0.92589 -11.11077,-2.7777 -16.66615,-4.07395 -27.77694,-6.85164 -3.70359,-0.9259 -6.2961,-2.59252 -7.96271,-5.18503 -1.66662,-2.59251 -1.66662,-5.18504 -0.37036,-7.77756 9.25897,-18.14758 13.88848,-27.40658 23.14745,-45.55416 1.48143,-2.7777 3.70359,-4.81467 6.85164,-6.11095 3.14805,-1.29623 6.2961,-1.66659 9.44415,-0.92589 4.81467,1.29627 7.40718,1.85179 12.22187,2.96289 3.14803,0.74072 5.74056,1.85179 7.96271,3.51841 2.22216,1.66659 4.07395,3.51839 5.37021,5.74056 1.29625,2.22215 2.22215,4.62949 2.40733,7.40718 0.18518,2.77769 0,5.3702 -1.11108,7.96272 -1.48143,3.88878 -4.07394,7.03684 -7.59235,9.62935 4.07394,2.40733 7.222,5.74056 9.07379,9.81451 1.66663,3.88877 1.85179,8.1479 0.37036,12.40704 z"
+       id="path84-1"
+       sodipodi:nodetypes="scccscssscssccssccsccssscccc"
+       inkscape:export-filename="C:\All\Batocera\batocera-assets\logos\joystick-black-favicon.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       style="display:inline;stroke:none;stroke-width:1;filter:url(#filter13214)" />
+    <rect
+       style="fill:#ebd667;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter13754)"
+       id="rect4213"
+       width="309.65161"
+       height="56.393505"
+       x="255.03748"
+       y="582.22064"
+       rx="0.908894"
+       ry="0.908894" />
+    <text
+       xml:space="preserve"
+       transform="translate(6.5594697,107.63927)"
+       id="text9348"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9350);fill:#000000;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="262.48633"
+         y="508.54895"
+         id="tspan14030">Batocera cup winner 2022</tspan></text>
+  </g>
+</svg>
